@@ -2,8 +2,8 @@
 
 ## 1. Project Architecture & Structure
 The web application is structured with separation of concerns:
-* **Markup (`index.html`):** Utilizes semantic HTML5 elements (`<header>`, `<nav>`, `<main>`, `<section>`, `<article>`, `<footer>`) to improve code clarity, SEO, and accessibility.
-* **Styles (`css/styles.css`):** Built with pure CSS3 without heavy external libraries, keeping page load time fast and performance high.
+* **Markup (`index.html`):** Utilizes semantic HTML elements (`<header>`, `<nav>`, `<main>`, `<section>`, `<article>`, `<footer>`) to improve code clarity and accessibility.
+* **Styles (`css/styles.css`):** Built with pure CSS without heavy external libraries, keeping page load time fast and performance high.
 * **Logic (`js/script.js`):** Modular client-side JavaScript wrapped inside `DOMContentLoaded` to prevent blocking DOM parsing.
 
 ## 2. Responsive Design & Layout Strategy
