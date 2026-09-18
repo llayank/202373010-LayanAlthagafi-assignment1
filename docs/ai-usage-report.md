@@ -4,9 +4,9 @@
 * **Tool:** Gemini (Google)
 * **Use Cases:**
   * **Ideation & Layout Assistance:** Brainstorming the architectural layout and semantic HTML structure required for an entry-level software engineering portfolio.
-  * **CSS & Color Palettes:** Recommending modern CSS variables and color combinations (soft purples and warm beige tones) to achieve a minimalist, cohesive visual aesthetic.
-  * **Interactivity Brainstorming:** Exploring logic implementations for JavaScript features, including time-of-day greetings and dark/light theme switching with browser local storage.
-  * **Documentation Guidance:** Outlining standard formatting and requirements for technical documentation and repository readmes based on the course rubric.
+  * **CSS & Color Palettes:** Recommending modern CSS variables and color combinations to achieve a minimalist visual aesthetic.
+  * **Interactivity Brainstorming:** Exploring logic implementations for JavaScript features, including time-of-day greetings and dark/light theme switching.
+  * **Documentation Guidance:** Outlining standard formatting and requirements for technical documentation.
 
 ## 2. Benefits & Challenges
 
