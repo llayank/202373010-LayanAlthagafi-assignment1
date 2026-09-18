@@ -21,4 +21,4 @@ The web application is structured with separation of concerns:
 * **Form Event Handling:** Captures `submit` events, cancels full page reload via `event.preventDefault()`, validates the input fields, and presents temporary feedback for user confirmation.
 
 ## 5. Compatibility 
-* Fully compatible with modern evergreen browsers.
+* Fully compatible with modern bowsers.
