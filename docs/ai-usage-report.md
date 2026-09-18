@@ -23,7 +23,7 @@
 * **Manual Adjustments:** I couldn't just copy and paste everything; I had to test the responsive layout on my own screen using browser DevTools to make sure it looked right.
 
 ## 3. Learning Outcomes
-* **Workflow Improvements:** Learned how to treat AI as a collaborative pair programmer for brainstorming and debugging rather than as a source of finished output[cite: 5].
+* **Workflow Improvements:** Learned how to treat AI as a collaborative pair programmer for brainstorming and debugging rather than as a source of finished output.
 * **Code Structuring:** Improved ability to design modular, accessible semantic markup that complies with web standards and accessibility guidelines.
 
 ## 4. Responsible Use & Modifications
